@@ -2,7 +2,7 @@
 
 This directory contains the annotations for the Outdoor scenes dataset from ISVQA. 
 
-Download the original images from the [nuScenes dataset](https://www.nuscenes.org/).
+Download the original images from [nuScenes](https://www.nuscenes.org/).
 
 The ISVQA annotations can be read as follows:
 
@@ -20,7 +20,7 @@ Here, `data['metadata']` contains the metadata from the dataset, `data['data']` 
 'question_id'       # Unique ID for the question
 'image_names'       # Image names in the order: front_left, front, front_right, back_left, back, back_right
 'image_id'          # ID for a set of images
-'feature_paths'     # images_names + npy
+'feature_paths'     # images_names + .npy
 'answers'           # List of answers from the annotators
 ```
 
