@@ -1,0 +1,961 @@
+<unk>
+blue and white
+white
+seven
+four
+chair
+tv
+dresser
+rug
+carpet
+lamp
+door
+two
+green
+yellow
+one
+beige
+red
+three
+empty
+black
+clean
+good
+brown
+wood
+picture
+art
+tile
+portrait
+gray
+tan
+full
+six
+five
+mirror
+artwork
+fireplace
+wall
+tree
+plant
+down
+bottles
+cabinet
+plants
+blue
+light blue
+granite
+rock
+tiles
+towel rack
+towel
+yes
+black and white
+vent
+zero
+map
+painting
+sink
+oval
+square
+round
+smoke detector
+smoke alarm
+marble
+hardwood
+window
+light
+fan
+none
+world
+
+bed
+no
+rectangle
+pillows
+left
+furniture
+open
+cars
+heater
+not furnished
+radiator
+frame
+circle
+curtains
+blinds
+vase
+leather
+large
+gray and white
+thermostat
+light fixture
+chandelier
+nothing
+flowers
+food
+microwave
+stove
+oven
+blanket
+white and gray
+opened
+closed
+kitchen
+living room
+dome
+rose
+gold
+upstairs
+clothes
+clothing
+vertical
+curtain
+outlet
+pink
+desk
+table
+microwave oven
+stools
+furnished
+different
+sofa
+books
+pictures
+bookcase
+bedroom
+pink and blue
+dark
+orange
+pillow
+closet
+light switch
+shelves
+switch
+bathroom
+laundry room
+cabinets
+flower
+fish
+toilet
+toilet paper
+lights
+dryer
+washer
+stainless steel
+dishwasher
+clock
+end table
+couch
+made
+off
+two paintings
+big
+nine
+air conditioner
+plate
+towels
+shelf
+basket
+field day
+bay window
+metal
+messy
+boxes
+garage
+more
+less
+eight
+floor
+television
+windows
+tv stand
+in front of window
+floor lamp
+camera
+garden
+house
+fence
+outside
+car
+table and chairs
+white and black
+cupboard
+rocks
+trees
+patio
+curtain rod
+balcony
+washer and dryer
+white and blue
+glass
+roof
+picture frame
+ceiling
+nightstand
+coffee maker
+coffee pot
+fridge
+lightswitch
+towel ring
+up
+in hallway
+right
+doorway
+stairs
+staircase
+outdoors
+chairs
+ceiling fan
+paintings
+city
+shower
+toilet seat
+stone
+stones
+stripes
+striped
+shower curtain
+greenery
+wooden
+yard
+treadmill
+shut
+silver
+monochrome
+night stand
+world map
+brown and white
+hallway
+girl
+chest
+light brown
+exercise machine
+ceiling light
+pattern
+ottoman
+bench
+stool
+on ceiling
+room
+unfurnished
+towel holder
+star
+hood
+gas
+electric
+refrigerator
+porch
+fire extinguisher
+cross
+in kitchen
+table lamp
+hamper
+twelve
+towel bar
+rack
+on
+restroom
+tub
+railing
+cream
+coffee table
+chairs and table
+washing machine
+gray and black
+many
+cement
+air vent
+sixteen
+steel
+range hood
+chrome
+pipe
+butterfly
+drawers
+shoes
+child
+purple
+butterflies
+area rug
+telephone
+shiny
+sliding
+slide
+hanger
+apartment
+upper
+piano
+dark brown
+four pictures
+tree plant
+frames
+white and brown
+armchair
+shade
+silver and black
+wine glasses
+buildings
+mountain
+teal
+seahorse
+eleven
+double door
+sliding glass
+sliding door
+multiple
+headboard
+stairway
+green and white
+rabbit
+doors
+face
+book
+right side
+basement
+fuse box
+breaker box
+electrical box
+plastic
+mickey mouse
+posters
+guitar
+box
+baseboard heater
+pipes
+lever
+circuit breaker
+diamond
+chimney
+mat
+sailboat
+boat
+blue white
+storage
+rectangular
+side table
+bowl
+high
+horizontal
+red and white
+white and red
+brick
+sliding glass door
+bookshelves
+bookshelf
+dining table
+bronze
+orange and white
+lamps
+vanity
+cupboards
+garage door
+monitor
+counter
+across
+circular
+ac
+flat screen tv
+sectional
+patterned
+refridgerator
+building
+faucet
+sign
+shirt
+bedspread
+pot
+kettle
+bar
+people
+framed pictures
+sitting
+l shaped
+moon
+bricks
+ten
+bar stools
+maroon
+recessed lighting
+tripod
+deer
+bear
+both
+natural
+switches
+orange and blue
+hanging
+red chair
+hanging on wall
+on wall
+paper towels
+wall clock
+next to bed
+led tv
+dressers
+dots
+circles
+checkered
+x
+burgundy
+island
+potted plant
+shelving
+mirrors
+bathroom and bedroom
+bowl of fruit
+vaulted
+coat hanger
+coat rack
+paneled
+glass door
+animal
+straight
+see through
+yellow pillow
+red flower
+leopard
+fabric
+painted
+skylight
+transparent
+printed
+floral
+bushes
+shirts
+blind
+pillar
+yellow and white
+handle
+bathtub
+built in
+in corner
+corner
+fire place
+stainless
+dark wood
+dining room
+audix
+small
+fruit
+eiffel tower
+chalkboard
+coffee machine
+rounded
+double
+pantry
+three paintings
+bird
+female
+subway tile
+new
+shades
+closet doors
+double doors
+blue and red
+penguins
+microwave and fridge
+white and green
+two pillows
+turquoise
+nature
+person
+hand towel
+table and chair
+toaster
+neither
+plain
+sliding doors
+close
+family photos
+picture frames
+wood and carpet
+baseboard
+exterior
+broken
+ventilation
+blue and yellow
+blue and green
+hand towels
+table cloth
+dinnerware
+plates
+dishes
+photos
+candles
+guitars
+globe
+textured
+not
+banner
+bare
+tea kettle
+teapot
+hat
+jacket
+cat
+day
+beach
+calendar
+top
+heat vent
+six chairs
+printer
+faces
+above bed
+wreath
+door frame
+grandfather clock
+vertical blinds
+hotel
+outdoor
+deck
+laundry
+water heater
+front door
+tray
+indoors
+landscape
+normal
+light wood
+bath
+beds
+paper
+center
+exercise equipment
+walls
+free standing
+to right
+bag
+robe
+alphabet
+home
+statue
+mantle
+pink and white
+above fridge
+left side
+next to door
+stacked
+vertically
+soap
+dog
+zebra
+mickey
+comforter
+on dresser
+jerseys
+single
+forest
+mirrored
+photographs
+pumpkin
+tiled
+yellow and blue
+tube light
+regular
+decorations
+mattress
+two doors
+empty room
+office
+horizontally
+on counter
+downstairs
+three pictures
+one window
+bottle
+false
+true
+stove top
+arch
+arched
+above sink
+white and yellow
+lines
+celing fan
+closets
+hexagon
+mounted
+studio
+elk
+moose
+tables
+stall
+clear
+keyboard
+second floor
+keys
+truck
+electric stove
+yellow and green
+shower head
+medicine cabinet
+jars
+bananas
+above
+tennis racket
+tennis player
+night lamp
+aquarium
+washer dryer
+beams
+trashcan
+twin
+love
+peephole
+light bulb
+another building
+fruit bowl
+above stove
+cityscape
+ocean
+in closet
+field
+laundry basket
+heating vent
+wood and metal
+wire
+lock
+door handle
+trophy
+hangers
+squares
+second
+juggling
+set
+inside
+recessed
+iron
+fire alarm
+in living room
+built in shelves
+out
+children
+slide open
+carpet and wood
+by window
+french doors
+front
+ship
+apples
+apple
+foosball
+pole
+walk in closet
+yellow chair
+switch board
+long
+tall
+bottom
+carpeted
+octagon
+abstract
+cow
+ground floor
+south america
+cardboard
+brown white
+on fridge
+wine rack
+handles
+grandfather
+above door
+cartoon
+night
+sunlight
+to left
+purple and white
+hiking
+blue and black
+butterflys
+ddrum
+two frames
+starfish
+sheer
+utensils
+for
+strings
+same
+oven and microwave
+inox
+leopard print
+glass doors
+queen
+refrigerator and stove
+stove and microwave
+male
+buddha
+unfinished
+mixer
+table runner
+glasses
+angled
+sunny
+elephant
+shutters
+multi colored
+angular
+at desk
+ground
+computer
+above toilet
+under window
+bare wood
+white towel
+triangle
+cello
+on door
+double bed
+smooth
+lobster
+flag
+populated
+knobs
+l shape
+cups
+vases
+daylight
+tone
+multi
+packed
+cluttered
+green and yellow
+sliding glass doors
+sand modeling
+heart
+lighting
+sea horse
+garage doors
+human
+purse
+kitchen island
+horse
+translucent
+bay windows
+below window
+stackable
+design
+mouse
+fake
+umbrella
+nice
+behind couch
+urban
+rural
+frosted
+tape
+on floor
+carpet and tile
+seventy-five
+above couch
+twenty-one
+wood and tile
+dunlop
+red and gray
+sale
+knife block
+knives
+white and beige
+half
+on bed
+baskets
+stuffed animals
+dress
+white wood
+colorful
+above fireplace
+checkers
+overhead lighting
+in bathroom
+walk in
+ceiling lights
+recessed lights
+buckets
+fluorescent
+master bedroom
+old
+mugs
+narrow
+kitchen and bedroom
+color
+left and right
+below
+sixteen and twenty-one
+warehouse
+palm tree
+floors
+vacant
+by door
+orange and green
+city skyline
+hung on wall
+on couch
+hammock
+rocking chair
+white and orange
+first
+wooden table
+blue and brown
+curved
+above oven
+sockets
+wide
+l
+subway
+wire shelving
+sand dollar
+sea
+light color
+nursery
+american flag
+on cabinet
+on desk
+brick wall
+modern
+basketball hoop
+wood stove
+deadbolt
+next to window
+king size
+bright
+beige and blue
+banana
+corner of room
+lace
+beige and yellow
+rough
+on table
+man
+on chair
+on sofa
+bottom right
+utensil holder
+warm
+under construction
+wine bottles
+white trim
+lighter
+middle
+red and blue
+once
+garden tub
+pencils
+morning
+organized
+trophies
+nine hundred and seventy-five
+two shelves
+another house
+tennis
+jersey
+neutral
+coat hangers
+in garage
+natural wood
+brass
+porcelain
+under stairs
+floor to ceiling
+fish tank
+loveseat
+popcorn
+multi color
+condo
+sand
+sixteen twenty-one
+ok
+ties
+montana
+black and brown
+over stove
+live
+spacious
+ball
+well lit
+rollercoaster
+roller coaster
+behind door
+open concept
+finished
+green pillow
+electric box
+under cabinets
+wooden door
+flourescent
+gray carpet
+red pillow
+martini glass
+decorated
+coat
+tulips
+black cat
+radio
+bottom middle
+tablecloth
+all of them
+next to stove
+next to fridge
+during day
+telescope
+leaves
+artificial
+cat painting
+by bed
+darker
+black pillow
+in city
+embedded
+first floor
+gray and yellow
+television set
+away
+tile and carpet
+shadow
+crib
+sunset
+birds
+blues hall
+laptop
+under desk
+obsession
+flatscreen
+cheetah
+blue pillow
+indoor
+speakers
+union
+hand soap
+boy
+aidan
+lion
+clear glass
+last supper
+dolls
+stone and mortar
+triangular
+interior
+taller
+flat screen
+plaid
+ducks
+exercise ball
+side by side
+camera tripod
+blue and tan
+blue brown
+on top of fridge
+cloudy
+rustic
+cracked
+red white black
+digital
+very spacious
+three lights
+black and red
+winter
+summer
+wooden trunk
+very bright
+on toilet
+wolf
