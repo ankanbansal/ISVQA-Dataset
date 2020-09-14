@@ -28,6 +28,7 @@ def save_sample_rgb(rgb_obs, filename):
 
 
 def generate_and_save_videos(pointnav_file_dir, scene_names, config, save_dir, split='train'):
+
     for scene_name in scene_names:
         pn_file = os.path.join(pointnav_file_dir, scene_name + '.json.gz')
         print("================================================================================")
@@ -83,11 +84,8 @@ def generate_and_save_videos(pointnav_file_dir, scene_names, config, save_dir, s
             
             env.close() 
 
-info_files_dir = 'PATH/TO/INFO/FILES'
-# Example:
-#info_files_dir = '/efs/data/gibson/mivqa/videos/'
 
-save_dir = 'PATH/TO/SAVE/VIDEOS'
+save_dir = 'PATH/TO/SAVE/VIDEOS' # Path where the accompanying `info_files` directory is saved
 # Example:
 #save_dir = '/efs/data/gibson/mivqa/videos/'
 
@@ -95,11 +93,8 @@ pointnav_file_dir = 'PATH/TO/GIBSON/POINTNAV/TRAIN/CONTENT'
 # Example:
 #pointnav_file_dir = '/efs/data/gibson/pointnav/train/content/'
 
-train_scene_names = os.listdir(os.path.join(info_files_dir, 'train'))
-test_scene_names = os.listdir(os.path.join(info_files_dir, 'test'))
-#pointnav_files = [os.path.join(pointnav_file_dir, f) for f in os.listdir(pointnav_file_dir)]
-#train_pointnav_files = pointnav_files[:60]
-#test_pointnav_files = pointnav_files[60:]
+train_scene_names = os.listdir(os.path.join(save_dir, 'train'))
+test_scene_names = os.listdir(os.path.join(save_dir, 'test'))
 
 config = habitat.get_config(config_paths='configs/tasks/pointnav_gibson.yaml')
 config.defrost()
@@ -109,4 +104,4 @@ config.SIMULATOR.TURN_ANGLE = 10
 config.freeze()
 
 generate_and_save_videos(pointnav_file_dir, train_scene_names, config, save_dir, 'train')
-#generate_and_save_videos(pointnav_file_dir, test_scene_names, config, save_dir, 'test')
+generate_and_save_videos(pointnav_file_dir, test_scene_names, config, save_dir, 'test')
