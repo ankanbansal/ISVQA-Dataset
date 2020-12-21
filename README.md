@@ -10,7 +10,11 @@ The `nuscenes/` directory contains the IMDB files and list of answers for the ou
 Please see the `nuscenes/` for more details.
 
 ### Indoor Scenes - Gibson, Habitat
-Coming soon
+The `gibson/` directory contains the IMDB files and list of answers for the indoor scenes part of
+the ISVQA dataset. The `imdb_gh_rand_combined_trainval.json` contains annotations for the *trainval*
+set of the dataset and `imdb_gh_rand_combined_test.json` contains annotations for the *test* set.
+The `gibson/data_generation` directory contains the code to generate the image sets and video frames
+using the original Habitat framework. Please see the `gibson/` for more details.
 
 
 ---
