@@ -3,7 +3,9 @@
 This directory contains the annotations for the Indoor scenes dataset (Gibson-Room and
 Gibson-Building) from ISVQA. 
 
-Download the original [Gibson]() datasets. Also, install the [Habitat
+Download the original
+[Gibson](https://github.com/facebookresearch/habitat-challenge/blob/master/README.md#references)
+[datasets](http://gibsonenv.stanford.edu/database/). Also, install the [Habitat
 environment](https://github.com/facebookresearch/habitat-api). Then use the code in
 `data_generation` to generate the relevant images and videos from the 3D scans.
 
